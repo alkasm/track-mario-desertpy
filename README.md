@@ -10,13 +10,16 @@ Clone [this repository](https://github.com/alkasm/cvpy) and follow the instructi
 ### 2. Clone this repository
 Clone this repository to grab the Jupyter notebook and the video and image file.
 
-### 3. Startup the Jupyter notebook
+### 3. Startup the Jupyter notebook or run the Python script
 Once you've created the Anaconda environment simply start it up with
 ```bash
 $ source activate cvpy
 ```
-and then you can browse to the folder containing this repo and start Jupyter with
+You should see `(cvpy)` added to the beginning of your terminal lines. To start up the Jupyter notebook you can browse to the folder containing this repo and start with
 ```bash
-$ jupyter notebook 
+(cvpy) $ jupyter notebook 
 ```
-and follow the tutorial!
+and follow the tutorial, **or** if you prefer to be outside of Jupyter, run the included Python script with
+```bash
+(cvpy) $ python3 trackMario.py
+```
