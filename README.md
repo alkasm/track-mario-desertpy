@@ -1,6 +1,6 @@
 # Summary
 
-This demo will be a basic introduction to computer vision and image processing. We'll go over how images are typically stored in Python libraries and how to manipulate them. We'll then apply some basic functions in OpenCV to find Mario inside an image, and then apply the same methods to video to track Mario in a SMB level playthrough.
+This demo will be a basic introduction to computer vision and image processing. We'll go over how images are typically stored in Python libraries and how to manipulate them. We'll then apply some basic functions in OpenCV to find Mario inside an image, and then apply the same methods to video to track Mario in a SMB level playthrough, like this: https://www.youtube.com/watch?v=zo3U3a4nmyY
 
 # Get started
 
